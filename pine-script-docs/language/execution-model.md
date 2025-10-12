@@ -31,8 +31,6 @@ A script can retrieve price, volume, and other essential data for each bar on wh
 
 For example, the simple script below uses the [plot()](https://www.tradingview.com/pine-script-reference/v6/#fun_plot) function to display the series of [close](https://www.tradingview.com/pine-script-reference/v6/#var_close) values (i.e., the closing price of each bar) on the chart:
 
-[Pine Script®](https://tradingview.com/pine-script-docs)
-
 ```pine
 //@version=6
 indicator("Bar-by-bar execution demo", overlay = true, behind_chart = false)

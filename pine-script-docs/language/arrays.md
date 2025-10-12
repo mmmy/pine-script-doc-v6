@@ -5,8 +5,6 @@
 
 # Arrays
 
-NoticeThis page contains advanced material. If you are a beginning Pine Script® programmer, we recommend you become familiar with other, more accessible Pine Script features before you venture here.
-
 ## Introduction
 
 Pine Script *arrays* are one-dimensional [collections](https://www.tradingview.com/pine-script-docs/language/type-system/#collections) that can store multiple values or references in a single location. Arrays are a more robust alternative to declaring a set of similar variables (e.g., `price00`, `price01`, `price02`, …).
