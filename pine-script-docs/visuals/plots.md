@@ -15,8 +15,6 @@ This script showcases a few different uses of [plot()](https://www.tradingview.c
 
 ![image](https://www.tradingview.com/pine-script-docs/_astro/Plots-Introduction-01.Cylrqa-m_E2dID.webp)
 
-[Pine Script®](https://tradingview.com/pine-script-docs)
-
 ```pine
 //@version=6
 indicator("`plot()`", "", true)
